@@ -1,0 +1,29 @@
+﻿  Chess.cpp
+  GameManager.cpp
+  main.cpp
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(109,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(197,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(369,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(378,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(463,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(543,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(673,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(791,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(941,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(804,17): warning C4101: 'getChar2': 未參考的區域變數
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1113,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1122,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1207,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1288,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1418,22): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(375): warning C4715: 'GameManager::checkPlayer': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(384): warning C4715: 'GameManager::find': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(695): warning C4715: 'GameManager::stalemate': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1119): warning C4715: 'FileGameManager::checkPlayer': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1128): warning C4715: 'FileGameManager::find': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\main.cpp(70): warning C4715: 'startPage': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\GameManager.h(1440): warning C4715: 'FileGameManager::stalemate': 不是所有控制路徑都傳回值
+C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Project_Chinese_Chess\Chess.cpp(151): warning C4715: 'Advisor::move': 不是所有控制路徑都傳回值
+  LINK : 最後的累加連結找不到或未建置 C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Debug\Project_Chinese_Chess.exe，正在執行完整連結
+  Project_Chinese_Chess.vcxproj -> C:\Users\User\Downloads\Project_Chinese_Chess_Group14\Project_Chinese_Chess\Debug\Project_Chinese_Chess.exe

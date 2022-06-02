@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Project_Chinese_Chess\test\main.cpp(14,7): warning C4101: 'getChar2': 未參考的區域變數
+  test.vcxproj -> C:\Users\User\source\repos\Project_Chinese_Chess\Debug\test.exe
